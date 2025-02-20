@@ -46,7 +46,7 @@ This project predicts medical insurance costs using a regression model built wit
    ```
 2. Run the Python script or Jupyter Notebook:
    ```python
-   python predict_health_costs.py
+   [python predict_health_costs.py](https://colab.research.google.com/drive/1vSgnqddms2QD6NacOxS_lNoLi7c31VMx?usp=sharing)
    ```
 3. Evaluate model performance and visualize results.
 
