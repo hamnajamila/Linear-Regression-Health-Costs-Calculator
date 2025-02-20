@@ -36,7 +36,7 @@ This project predicts medical insurance costs using a regression model built wit
    - Aim for MAE < 3500
 
 ## 📈 Results
-- The model achieves an MAE of approximately `XXXX` (to be updated based on training).
+- The model achieves an MAE of approximately `8985.96 expenses`
 - Scatter plot comparison of true vs. predicted values shows the model's accuracy.
 
 ## 🔧 How to Run
